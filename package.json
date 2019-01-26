@@ -1,0 +1,19 @@
+{
+  "name": "android-referrer-plugin",
+  "version": "1.0.0",
+  "description": "Fork Cordova Referrer Android Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u777u/android-referrer-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/u777u/android-referrer-plugin/issues"
+  },
+  "homepage": "https://github.com/u777u/android-referrer-plugin#readme"
+}
